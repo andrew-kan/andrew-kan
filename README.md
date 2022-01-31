@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andrew-kan
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in full stack development as well as hardware. 
+- 🌱 I’m currently learning Javascript and other web development technologies.
 - 📫 How to reach me ... email me at andrew.m.kan@gmail.com
 
 <!---
